@@ -33,8 +33,9 @@ I’m eager to hear your thoughts! If you encounter any issues or have suggestio
 
 ## TODO
 
-- [x] Add support for additional languages.
-- [x] Add sound effects 
-- [ ] Implement a visual indicator for when the boat is anchored. (Prop?)
-- [ ] Improve error handling and user feedback.
-- [ ] Add animations for anchoring and unanchoring.
+- ✅ **Add support for additional languages.**
+- ✅ **Add sound effects.**
+- ❌ **Implement a visual indicator for when the boat is anchored. (Prop?)**
+- ❌ **Improve error handling and user feedback.**
+- ❌ **Add animations for anchoring and unanchoring.**
+
