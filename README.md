@@ -30,3 +30,11 @@ Join my Discord to connect with other users, share your feedback, and stay updat
 ## Feedback
 
 I’m eager to hear your thoughts! If you encounter any issues or have suggestions for improvements, please feel free to mention it on Discord!
+
+## TODO
+
+- [ ] Add support for additional languages.
+- [ ] Implement a visual indicator for when the boat is anchored. (Prop?)
+- [ ] Improve error handling and user feedback.
+- [ ] Add animations for anchoring and unanchoring.
+- [ ] Add sound effects for anchoring/unanchoring.
