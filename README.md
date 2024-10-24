@@ -1,4 +1,4 @@
-# ScalletaScripts Anchor (SS-Anchor)
+# ScalettaScripts Anchor (SS-Anchor)
 
 Welcome to **SS-Anchor**! This is my first public resource for FiveM, so go easy on me <3
 
